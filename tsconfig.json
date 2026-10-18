@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "strict": true,
+    "module": "CommonJS",
+    "outDir": "./lib",
+    "resolveJsonModule": true
+  },
+  "include": [
+    "src"
+  ]
+}
